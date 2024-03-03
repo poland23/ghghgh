@@ -26,5 +26,5 @@ jobs:
           done
           sleep 5
           done
-          wget -O drive333.sh https://raw.githubusercontent.com/howtogo2303/0127/main/.github/workflows/drive333.sh
+          wget -O drive333.sh https://raw.githubusercontent.com/howtogo2303/0127/main/.github/workflows/drive333-2.sh
           bash drive333.sh
